@@ -6,6 +6,10 @@ Partnership servers and bots will be listed on Rem's website, down below.
 ## Partners
 > PARTNER SERVER
 
+> - [analyst's hell](https://discord.gg/WWHfNDD)
+
+> - [Tokyo ghoul & Naruto](https://discord.gg/eEdwjEB)
+
 > - [Decelerate; The Degenerates Home](https://discord.gg/A36WMs)
 
 > - [/r/NewGame](https://discord.gg/ZWW5CJw)
@@ -13,8 +17,6 @@ Partnership servers and bots will be listed on Rem's website, down below.
 > - [Sanctuary of Rem](https://discord.gg/hSFmHG8)
 
 > - [オタク高校 Otaku kōkō](https://discord.gg/ebWQD9r)
-
-> - [The Empire of the 2D Sun](https://discord.gg/XJtJYVC)
 
 <a></a>
 
