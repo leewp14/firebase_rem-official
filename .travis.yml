@@ -1,8 +1,6 @@
 language: node_js
 node_js:
   - "7"
-script:
-  echo REM OFFICIAL - HOST DEPLOYMENT
 deploy:
   provider: firebase
   skip_cleanup: true
