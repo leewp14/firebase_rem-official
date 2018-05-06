@@ -1,8 +1,8 @@
 language: node_js
 script:
-  - echo “REM OFFICIAL - HOST DEPLOYMENT”
+  echo “REM OFFICIAL - HOST DEPLOYMENT”
 install:
-  - npm install -g firebase-tools
+  npm install -g firebase-tools
 deploy:
   provider: firebase
   token:
