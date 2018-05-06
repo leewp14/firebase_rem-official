@@ -1,7 +1,10 @@
 language: node_js
+node_js:
+  - "7"
 script:
-  echo “REM OFFICIAL - HOST DEPLOYMENT”
+  echo REM OFFICIAL - HOST DEPLOYMENT
 deploy:
   provider: firebase
+  skip_cleanup: true
   token:
     secure: U6NjtEjwX7S75YL84+0L6kQSuT0SuM5q/VfsMd4xCuWVYm5IrDO828nDTMmBFVktt4E0JoW8KpaR574rpbBOYQ9Q6ehbcdCdX+r/Xdp6HBOw7fj3xV5nflq6Vkc5CvVuHb/tOo6vTQ1qNH+ouI57D1wvf75PmuhPCGXROKm+lF4U5naKUIX93vbgXFSNIyCAAvyLXKaKtUrSXR3cDuYIc7pHmzLgnANRSCjTMxY3qP/5TLSQoR3JBuYZu9YPTZTWNpCg7mMg2MNZHPQjqQJrilpykVoJdihzGxmifAvktFe27p6ycCAvN0dt0CMbj2P4j0uW4UD1rfA2Q/noHDzVPTB18rVMHpOikFKoPgPLB2cEXRznZR9qR2D+fwGrXaysKvtXojMPfgRvIWLbK4KWhtCHRzHD0aCi5hsJRPRwqR2cb//FNt1FP1nBsjpHfjWoV/H7z/2V9xmPNt5dMzrbt4jsvYlJM1sKqz7rhbq5Do6h9izsGpmOD4cUIMV9600Sh2ujuoeFl/fpLgpOtA5Lbh/aqqU6i5jICf7ChDI5tg/VoamGL4/LiWQty6MAvCOUrm/19zQ1CxiWe/ZPf/x3qs7NH+q5IppZo0jAeYlYjSfD9GRMhKFHxyvctxjx7urz+vWgw91LWPO8eWneYnk9UYnBWmhGiwsKIl0fj1tiZZA=
