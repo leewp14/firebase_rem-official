@@ -1,5 +1,5 @@
 
-var version = '2018.010';
+var version = '2018.011';
 var resources = [
     '/assets/config/manifest.json',
     '/',
