@@ -1,22 +1,14 @@
 # PARTNERSHIP
 Bot/Server Partnership is established to enable recognition of large-scale Discord servers/bots. 
 
-Partnership servers and bots will be listed on Rem's website, down below. 
+Partnership servers (with a guild size of >125) and bots will be listed on Rem's website, down below. 
 
 ## Partners
 > PARTNER SERVER
 
-> - [analyst's hell](https://discord.gg/WWHfNDD)
-
 > - [Tokyo ghoul & Naruto](https://discord.gg/eEdwjEB)
 
-> - [Decelerate; The Degenerates Home](https://discord.gg/A36WMs)
-
 > - [/r/NewGame](https://discord.gg/ZWW5CJw)
-
-> - [Sanctuary of Rem](https://discord.gg/hSFmHG8)
-
-> - [オタク高校 Otaku kōkō](https://discord.gg/ebWQD9r)
 
 <a></a>
 
@@ -56,3 +48,5 @@ If you see your server/bot fulfilled all the above requirements, feel free to jo
 
 ## Disclaimer {docsify-ignore}
 The information provided is subjected to change without prior notice. 
+
+Last Updated : MAY 08
