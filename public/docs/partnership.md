@@ -1,7 +1,7 @@
 # PARTNERSHIP
 Bot/Server Partnership is established to enable recognition of large-scale Discord servers/bots. 
 
-Partnership servers (with a guild size of >125) and bots will be listed on Rem's website, down below. 
+Partner servers (with a guild size of >125) and bots will be listed on Rem's website, down below. 
 
 ## Partners
 > PARTNER SERVER
