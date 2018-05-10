@@ -44,6 +44,10 @@ You can check commands using ```d!help```
 
 ```d!work``` Collect money, valid once every 2 hours
 
+```d!deposit (d!dp) [amount]``` Deposit money into your bank, of the amount specified
+
+```d!withdrawal (d!wd) [amount]``` Withdraw money from your bank, of the amount specified
+
 ```d!50x2 [amount]``` Gambles the amount provided and has a chance of doubling it. If you lose, you lose your money
 
 ```d!75x [amount]``` Gambles the amount provided and has a chance of multiplying your bet by 2.5 times. If you lose, you lose your money

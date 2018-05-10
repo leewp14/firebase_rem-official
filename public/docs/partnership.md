@@ -14,6 +14,8 @@ Partner servers (with a guild size of >125) and bots will be listed on Rem's web
 
 > PARTNER BOTS
 
+> - [Yoshino](https://discordapp.com/oauth2/authorize?client_id=389132918716629002&permissions=2146958583&scope=bot)
+
 > - [Zero Two](https://discordapp.com/api/oauth2/authorize?client_id=428786590656102400&permissions=2146954435&scope=bot)
 
 > - [Proximity #1729](https://discordapp.com/api/oauth2/authorize?client_id=436267894586998791&permissions=8&scope=bot)
@@ -51,4 +53,5 @@ If you see your server/bot fulfilled all the above requirements, feel free to jo
 ## Disclaimer {docsify-ignore}
 The information provided is subjected to change without prior notice. 
 
-Last Updated : MAY 09 (GMT+8)
+
+Last Updated : MAY 10 (GMT+8)
