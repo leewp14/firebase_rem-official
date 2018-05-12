@@ -223,17 +223,19 @@ body{
 }
 
 #main-cover-ident-favicon {
-    transition: all ease-in-out 0.5s;
+    transition: all ease-out 0.3s;
     width: 290px;
     border-radius: 50%;
 }
 
 #main-cover-ident-favicon:hover {
     box-shadow: 0 0 20px #fff;
+    transform: scale(1.06);
 }
 
 #main-cover-ident-favicon-1 {
     border-radius: 50%;
+    animation: move ease-in-out 7s infinite;
 }
 
 .main-content {
@@ -309,6 +311,20 @@ body{
 sw-update-toast{
     font-family: 'Rajdhani', sans-serif;
     --primary-color: #00ffc4;
+}
+
+@keyframes move {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, 1px) rotate(0deg); }
 }
 
 @media only screen and (max-width:1023px) and (orientation:portrait) {
