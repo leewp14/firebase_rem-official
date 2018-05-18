@@ -12,8 +12,6 @@ You can check commands using ```d!help```
 
 ```d!say``` echo :-)
 
-```d!createrole [name]``` Creates a role with the name given
-
 ```d!role [@user] [role name]``` Gives someone the specified role
 
 ```d!invite``` Sends you Rem's invite link
@@ -24,8 +22,6 @@ You can check commands using ```d!help```
 
 ## Inventory
 ```d!inv (d!inventory) [@user]``` Sends you the inventory of specified user. Own inventory will be returned if no user is specified
-
-```d!collectableinv [@user]``` Sends the Collectable Inventory of specified user. These are limited time items that are only out for certain amounts of time, or very rare in crates. Own Collectable Inventory will be returned if no user is specified
 
 ```d!buycrate [crate]``` Let's you buy a crate with your available money. Available Crates : Gold, Silver, Bronze
 
