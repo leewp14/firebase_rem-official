@@ -20,7 +20,7 @@
     "redirects": [
       {
         "source": "*",
-        "destination": "https://rem-official.github.io",
+        "destination": "https://rem-official.github.io/",
         "type": 302
       }
     ]
